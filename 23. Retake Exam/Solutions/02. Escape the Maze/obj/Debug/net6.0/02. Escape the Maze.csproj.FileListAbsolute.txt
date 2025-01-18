@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\02. Escape the Maze.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\02. Escape the Maze.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\02. Escape the Maze.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\02. Escape the Maze.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\02. Escape the Maze.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\bin\Debug\net6.0\02. Escape the Maze.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\bin\Debug\net6.0\02. Escape the Maze.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\bin\Debug\net6.0\02. Escape the Maze.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\bin\Debug\net6.0\02. Escape the Maze.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\bin\Debug\net6.0\02. Escape the Maze.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\02. Escape the Maze.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\refint\02. Escape the Maze.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\02. Escape the Maze.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\02. Escape the Maze.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\02. Escape the Maze\obj\Debug\net6.0\ref\02. Escape the Maze.dll

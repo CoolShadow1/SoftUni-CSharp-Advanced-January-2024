@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\bin\Debug\net6.0\01. Pie Pursuit.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\bin\Debug\net6.0\01. Pie Pursuit.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\bin\Debug\net6.0\01. Pie Pursuit.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\bin\Debug\net6.0\01. Pie Pursuit.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\bin\Debug\net6.0\01. Pie Pursuit.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\01. Pie Pursuit.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\01. Pie Pursuit.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\01. Pie Pursuit.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\01. Pie Pursuit.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\01. Pie Pursuit.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\01. Pie Pursuit.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\refint\01. Pie Pursuit.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\01. Pie Pursuit.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\01. Pie Pursuit.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\01. Pie Pursuit\obj\Debug\net6.0\ref\01. Pie Pursuit.dll

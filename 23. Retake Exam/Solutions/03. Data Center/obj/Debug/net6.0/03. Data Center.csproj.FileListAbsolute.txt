@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\03. Data Center.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\03. Data Center.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\03. Data Center.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\03. Data Center.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\03. Data Center.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\bin\Debug\net6.0\03. Data Center.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\bin\Debug\net6.0\03. Data Center.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\bin\Debug\net6.0\03. Data Center.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\bin\Debug\net6.0\03. Data Center.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\bin\Debug\net6.0\03. Data Center.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\03. Data Center.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\refint\03. Data Center.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\03. Data Center.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\03. Data Center.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\23. Retake Exam\Solutions\03. Data Center\obj\Debug\net6.0\ref\03. Data Center.dll
